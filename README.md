@@ -1,4 +1,4 @@
-# my_allocator
+# My_Allocator
 # User-Space Memory Allocator
 
 This project is a user-space memory allocator implemented in C++. It simulates the behavior of standard library functions like `malloc`, `free`, `calloc`, and `realloc` by managing a pre-allocated pool of memory from the operating system.
